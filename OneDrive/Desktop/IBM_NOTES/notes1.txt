@@ -1,9 +1,0 @@
-A remote = a saved connection to another Git repository
-
-git origin = It is just the default name of the remote you cloned from
-
-✔️ Common name for the original repo you forked from
-✔️ Used when contributing to someone else’s project
-
-
-fork vs copy
